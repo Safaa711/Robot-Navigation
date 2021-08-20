@@ -1,4 +1,4 @@
-- We will use TurtleBot3 world for the map creation , and gazeboo for simulation.
+- We will use TurtleBot3 world for the map creation, and gazebo for simulation.
 
 export TURTLEBOT3_MODEL=waffle
 
